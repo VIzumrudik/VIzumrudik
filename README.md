@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="VIzumruik/WEII.gif" height="230">
+
 <!--
 **VIzumrudik/VIzumrudik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
