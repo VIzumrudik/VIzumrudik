@@ -17,6 +17,12 @@ I'm a student game developer who loves making games, especially shooters. Also a
 - 📖 Visual novels with AI features
 - 🔫 Experimenting with shooter mechanics
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIzumrudik/VIzumrudik/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIzumrudik/VIzumrudik/output/github-snake.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/VIzumrudik/VIzumrudik/output/github-snake.svg">
+</picture>
+
 ### 📫 Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vizumrudik)
