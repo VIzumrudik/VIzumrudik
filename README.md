@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="WEII.gif" height="230"> <img src="hachimi.gif" height="230">
+<img src="WEII.gif" height="230"> <img src="hachimi.gif" height="230"> <img src="Agnes.gif" height="230">
 
 <!--
 **VIzumrudik/VIzumrudik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
