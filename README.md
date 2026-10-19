@@ -13,7 +13,7 @@ I'm a student game developer who loves making games, especially shooters. Also a
 
 ### 🎮 What I do
 
-- 🥽 VR and AR games in Uniti
+- 🥽 VR and AR games in Unity
 - 📖 Visual novels with AI features
 - 🔫 Experimenting with shooter mechanics
 
